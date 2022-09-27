@@ -1,0 +1,31 @@
+---
+title: "lab4_q10"
+format: revealjs
+editor: visual
+---
+
+## LAB 4 Question 10
+
+Hi, this is Slice 1
+
+## Code chunk 1
+
+Here is how we initialize two variables:
+
+```{r eval=TRUE, include=TRUE, echo=TRUE}
+var1 <- 2
+var2 <- 3
+```
+
+## Code chunk 2
+
+Here is how we multiple two variables:
+
+```{r eval=TRUE, include=TRUE, echo=TRUE}
+mul <- var1 * var2
+mul 
+```
+
+## Slice 4
+
+This is the last slice of my presentation.
